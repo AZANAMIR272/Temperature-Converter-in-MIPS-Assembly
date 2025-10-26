@@ -9,12 +9,12 @@
 
 ## 👨‍💻 Team Members
 
-| Name                | Roll No.      | Role                       |
-| ------------------- | ------------- | -------------------------- |
-| **Syed Azan Amir**  | 2023F-BSE-272 | Implementation & Debugging |
-| **Muhammad Safwan** | 2023F-BSE-282 | Testing & Documentation    |
-| **Shaheer Abbassi** | 2023F-BSE-289 | Flowchart & Logic Design   |
-| **Muhammad Tariq**  | 2023F-BSE-343 | Algorithm Design & Report  |
+| Name                | Role                       |
+| ------------------- | -------------------------- |
+| **Syed Azan Amir**  | Implementation & Debugging |
+| **Muhammad Safwan** | Testing & Documentation    |
+| **Shaheer Abbassi** | Flowchart & Logic Design   |
+| **Muhammad Tariq**  | Algorithm Design & Report  |
 
 ---
 
